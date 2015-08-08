@@ -146,7 +146,7 @@
     <ClInclude Include="deck.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Cards.cpp" />
+    <ClCompile Include="Blackjack.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
